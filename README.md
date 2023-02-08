@@ -1,5 +1,10 @@
 ### Hi I am Nobin Babu 👋
 
+React JS Developer
+🌍  I'm based in Kochi
+✉️  You can contact me at nobins73@gmail.com
+🧠 React Dev
+
 <!--
 **nobinbabu94/nobinbabu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
