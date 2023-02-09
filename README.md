@@ -1,4 +1,6 @@
-# 💫 About Me:
+#Nobin Babu
+
+💫 About Me:
 React JS Developer <br>🌍 I'm based in Kochi<br>✉️ You can contact me at nobins73@gmail.com <br>🧠 React Dev<br>🧠 tech enthusiast
 
 
